@@ -1,0 +1,229 @@
+********************************************************************************
+*  All music in this archive fits the following criteria...                    *
+*                                                                              *
+*   1) Artists claim them to be original works                                 *
+*      OR cover a piece old enough to be in the public domain (e.g. classical) *
+*                                                                              *
+*   2) They have been released by their creators under a license of            *
+*      Creative Commons CC0 "No Rights Reserved" or Public Domain              *
+*                                                                              *
+*  This file gives credit to the artists behind each song in this collection   *
+* (mostly in the form of their online pseudonyms) and the original source.     *
+*                                                                              *
+*  Curated: Kelsey O'Flaherty                                                  *
+********************************************************************************
+
+*   Classical Music
+
+**  Fantaisie Impromptu
+*** Composer: Frederic Chopin
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37
+*** License: Public Domain
+
+**  Minute Waltz (Valse Op. 64 No. 1)
+*** Composer: Frederic Chopin
+*** Source:https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=483
+*** License: Public Domain
+
+**  Trois Nouvelles Etudes No. 1 F Minor
+*** Composer: Frederic Chopin
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1895
+*** License: Public Domain
+
+**  Walzer (Op. 69 No. 2)
+*** Composer: Frederic Chopin
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=511
+*** License: Public Domain
+
+**  Thaxted
+*** Composer: Gustav Holst
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=527
+*** License: Public Domain
+
+**  Gymnopedie No. 1
+*** Composer: Erik Satie
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37
+*** License: Public Domain
+
+**  Waltz No. 10
+*** Composer: Johannes Brahms
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2164
+*** License:  Public Domain
+
+**  Waltz No. 15
+*** Composer: Johannes Brahms
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=794
+*** License: Public Domain
+
+**  Arabesque No. 1
+*** Composer: Claude Debussy
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1777
+*** License: Public Domain
+
+**  Clare de Lune
+*** Composer: Claude Debussy
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1778
+*** License: Public Domain
+
+**  Entree
+*** Composer: George Fridrich Handel
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=150
+*** License: Public Domain
+
+**  Gavotte
+*** Composer: George Fridrich Handel
+*** Source: https://www.mutopiaproject.org/ftp/HandelGF/Aylesford/03-gavotte/
+    	    03-gavotte.mid
+*** License: Public Domain
+
+**  Toccatta 
+*** Composer: George Fridrich Handel
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=152
+*** License: Public Domain
+
+**  Impertinence 
+*** Composer: George Fridrich Handel
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=154
+*** License: Public Domain
+
+**  Fantasia
+*** Composer: Wolfgang Mozart
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=570
+*** License: Public Domain 
+
+**  Fugue in G Minor
+*** Composer: Wolfgang Mozart
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=423
+*** License: Public Domain
+
+**  Les Tendres Plaintes
+*** Composer: Jean-Philippe Rameau
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=414
+*** License: Public Domain
+
+**  Moonlight Sonata
+*** Composer: Ludwig van Beethoven
+*** Source: https://musescore.com/openscore/scores/5421848
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Six Little Preludes
+*** Composer: Johann Sebastian Bach
+*** Source: https://musescore.com/openscore/scores/4040956
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+
+*   Traditional
+
+**  Greensleeves
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=109
+*** License: Public Domain
+
+**  The Loreley
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=438
+*** License: Public Domain
+
+*   Video Game Music 
+
+**  Broken Arm
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Casual Afternoon
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Icy Garden
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Journey Forgotten
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  No One
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Standardized Anxiety
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Without Time
+*** Creator: Roppy Chop Studios
+*** Source: https://opengameart.org/content/original-midi-album
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Leap
+*** Creator: nene
+*** Source: https://opengameart.org/content/leap-8bit
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Long Away Home
+*** Creator: nene
+*** Source: https://opengameart.org/content/long-away-home-8bit
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Boss Battle #2
+*** Creator: nene
+*** Source: https://opengameart.org/content/boss-battle-2-8-bit
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Bittersweet Story
+*** Creator: Aureolus_Omicron
+*** Source: https://opengameart.org/content/15-melodic-rpg-chiptunes
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Town
+*** Creator: Aureolus_Omicron
+*** Source: https://opengameart.org/content/15-melodic-rpg-chiptunes
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Shrine of Mysteries
+*** Creator: Aureolus_Omicron
+*** Source: https://opengameart.org/content/15-melodic-rpg-chiptunes
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Fountain of the Fairies
+*** Creator: Aureolus_Omicron
+*** Source: https://opengameart.org/content/15-melodic-rpg-chiptunes
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Battle 1
+*** Creator: Aureolus_Omicron
+*** Source: https://opengameart.org/content/15-melodic-rpg-chiptunes
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Dansha
+*** Creator: Djsedj
+*** Source: https://opengameart.org/content/
+    	    naranoiston-djonisya-naranoiston-tenazalina
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Bohta
+*** Creator: Djsedj
+*** Source: https://opengameart.org/content/
+    	    naranoiston-djonisya-naranoiston-tenazalina
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Niseris Djonisya, Yam Beu
+*** Creator: Djsedj
+*** Source: https://opengameart.org/content/
+    	    naranoiston-djonisya-naranoiston-tenazalina
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Viagem ao Setor Magenta
+*** Creator: Djsedj
+*** Source: https://opengameart.org/content/
+    	    naranoiston-djonisya-naranoiston-tenazalina
+*** License: Creative Commons CC0 "No Rights Reserved"
+
+**  Saltarello
+*** Creator: Vincenzo Galilei
+*** Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=110
+*** License: Public Domain

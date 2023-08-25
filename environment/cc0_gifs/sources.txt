@@ -1,0 +1,42 @@
+********************************************************************************
+**  All GIFs in this archive were distributed under the Creative Commons. I   **
+** here document the sources of the original files (or the videos from which  **
+** those GIFs were derived. Conversion via FFMPEG.)                           **
+** - Files Compiled by Kelsey O'Flaherty                                      **
+********************************************************************************
+
+*  City Stars
+** Pixabay on Pexels
+** Source: https://www.pexels.com/video/time-lapse-video-of-night-time-856136/
+** License: Creative Commons CC0 "No Rights Reserved"
+
+*  Ferris Wheel
+** Pixabay on Pexels
+** https://www.pexels.com/video/colorful-ferris-wheel-in-motion-854734/
+** License: Creative Commons CC0 "No Rights Reserved"
+
+*  Neon Vegas
+** Pixabay on Pexels
+** Source: https://www.pexels.com/video/night-at-vegas-855677/
+** License: Creative Commons CC0 "No Rights Reserved"
+
+*  Snowfall
+** Free Videos on Pexels
+** Source: https://www.pexels.com/video/snowfall-853996/
+** License: Creative Commons CC0 "No Rights Reserved"
+
+*  Ship
+** Pixabay on Pexels
+** Source: https://www.pexels.com/video/ship-cruising-856386/
+** License: Creative Commons CC0 "No Rights Reserved"
+
+
+
+* Conversion script: ffmpeg -an -ss 4.5 -t 5  -i "Pexels Videos 2776.mp4"
+-filter_complex "fps=8,scale=-1:320:flags=lanczos,split [a][b];
+[a] palettegen=max_colors=8 [p];[b][p] paletteuse=dither=none:bayer_scale=5"
+Snowfall.gif
+
+* Common video sources (via Pexels.com)
+** https://www.pexels.com/@pixabay/
+** https://www.pexels.com/@vimeo/
